@@ -6,9 +6,9 @@ void main(){
 }
 
 // List Empty method:-
-void main(){
-  var lstvar = new List<String>.empty(growable:true);
-  lstvar.add("FYBCA");
-  lstvar.add("SYBCA");
-  print(lstvar);
-}
+// void main(){
+//   var lstvar = new List<String>.empty(growable:true);
+//   lstvar.add("FYBCA");
+//   lstvar.add("SYBCA");
+//   print(lstvar);
+// }
